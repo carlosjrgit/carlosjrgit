@@ -2,7 +2,7 @@
 
   <!-- Header animado com efeito de digitação (velocidade acelerada) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=24&duration=2500&pause=600&color=38BDF8&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+Carlos+Junior!+%F0%9F%91%8B;Desenvolvedor+de+Software+%26+Educador;Python+%7C+PyQt5+%7C+PyQt6+%7C+Desktop+%26+CLI;intelig%C3%AAncia+Artificial+%26+Agente+de+IA;AI-Assisted+Dev+%7C+Clean+Code+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=38BDF8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Carlos+Junior!+%F0%9F%91%8B;Desenvolvedor+de+Software+%26+Educador;Python+%7C+PyQt5+%7C+PyQt6+%7C+Desktop+%26+CLI;Intelig%C3%AAncia+Artificial+%26+Agente+de+IA;AI-Assisted+Dev+%7C+Clean+Code+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 
   <p align="center">
