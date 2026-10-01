@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carlosjrgit" alt="Profile views">
+  ![Profile views](https://komarev.com/ghpvc/?username=carlosjrgit)
 </p>
 
   <!-- Redes Sociais e Contato -->
