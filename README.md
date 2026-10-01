@@ -5,7 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=38BDF8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Carlos+Junior!+%F0%9F%91%8B;Desenvolvedor+de+Software+%26+Educador;Python+%7C+PyQt5+%7C+PyQt6+%7C+Desktop+%26+CLI;Intelig%C3%AAncia+Artificial+%26+Agente+de+IA;AI-Assisted+Dev+%7C+Clean+Code+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 
-<p align="center"> <!-- Contador de Visitas --> <img src="https://komarev.com/ghpvc/?username=carlosjrgit&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0ea5e9&style=flat" alt="Contador de Visitas" /> </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosjrgit.carlosjrgit&left_color=gray&right_color=blue&left_text=Visualiza%C3%A7%C3%B5es" alt="Contador de Visitas" />
+</p>
 
   <!-- Redes Sociais e Contato -->
   <p align="center">
