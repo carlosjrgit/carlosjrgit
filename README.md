@@ -6,9 +6,8 @@
   </a>
 
   <p align="center">
-    <!-- Contador de Visitas -->
-    <img src="https://komarev.com/ghpvc/?username=carlosjrgit&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0ea5e9&style=flat" alt="Contador de Visitas" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=carlosjrgit" alt="Profile views">
+</p>
 
   <!-- Redes Sociais e Contato -->
   <p align="center">
